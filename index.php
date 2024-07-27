@@ -1,5 +1,5 @@
 <?php
-require_once('routes/sammm/authRoutes.php');
+require_once('routes/route/authRoutes.php');
 ?>
 
 
